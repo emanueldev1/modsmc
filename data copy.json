@@ -1,7 +1,6 @@
 {
     "downloadcontents": {
         "randomstring": {
-            "id": "randomstring",
             "button" : {
                 "text": "Includes HTML",
                 "type": "primary"
