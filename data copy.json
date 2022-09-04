@@ -2,7 +2,7 @@
     "downloadcontents": {
         "randomstring": {
             "id": "randomstring",
-            "buttont" : {
+            "button" : {
                 "text": "Includes HTML",
                 "type": "pprimary"
             },
