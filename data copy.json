@@ -1,0 +1,17 @@
+{
+    "downloadcontents": [
+        {
+            "id": "randomstring",
+            "buttont" : {
+                "text": "Includes HTML",
+                "type": "pprimary"
+            },
+            "route": "C:\\Users\\{pcuser}\\AppData\\Roaming\\.minecraft\\mods",
+
+            "files": [
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896266743808/architectury-6.2.43-forge.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896493252638/betteranimalsplus-1.19-11.0.7-forge.jar"
+            ]
+        }
+    ]
+}
