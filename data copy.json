@@ -4,7 +4,7 @@
             "id": "randomstring",
             "button" : {
                 "text": "Includes HTML",
-                "type": "pprimary"
+                "type": "primary"
             },
             "route": "C:\\Users\\{pcuser}\\AppData\\Roaming\\.minecraft\\mods",
 
