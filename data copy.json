@@ -1,15 +1,60 @@
 {
     "downloadcontents": {
-        "randomstring": {
+        "mods": {
             "button" : {
-                "text": "Includes HTML",
+                "text": "Descargar e instalar Mods",
                 "type": "primary"
             },
             "route": "C:\\Users\\{pcuser}\\AppData\\Roaming\\.minecraft\\mods",
 
             "files": [
                 "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896266743808/architectury-6.2.43-forge.jar",
-                "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896493252638/betteranimalsplus-1.19-11.0.7-forge.jar"
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896493252638/betteranimalsplus-1.19-11.0.7-forge.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454115419136090/jei-1.19.2-forge-11.2.0.254.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454115637252136/OptiFine_1.19.2_HD_U_H9.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116073443388/simple-rpc-1.19-3.1.1.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116333502486/sophisticatedbackpacks-1.19.2-3.18.17.679.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116518035486/sophisticatedcore-1.19.2-0.5.1.97.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116895535204/tl_skin_cape_forge_1.19_1.19.2-1.27.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454117101060186/tombstone-8.1.1-1.19.2.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454117386256454/voicechat-forge-1.19.2-2.3.6.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454118027997264/worldedit-mod-7.2.12.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454118602612776/Xaeros_Minimap_22.13.0_Forge_1.19.1.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454127263842374/1.19.2SecurityCraftv1.9.3.1.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454127691665519/carryon-1.19-1.18.1.2.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454127989465098/comforts-forge-6.0.01.19.2.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454128253714493/elevatorid-1.19-1.8.7.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454128421478491/Fallingleaves-1.19.1-1.3.0.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454128606019615/FallingTree-1.19.2-3.9.2.jar"
+            ]
+        },
+
+        "shaders": {
+            "button" : {
+                "text": "Descargar e instalar shaders",
+                "type": "primary"
+            },
+            "route": "C:\\Users\\{pcuser}\\AppData\\Roaming\\.minecraft\\shaderpacks",
+
+            "files": [
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896266743808/architectury-6.2.43-forge.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015453896493252638/betteranimalsplus-1.19-11.0.7-forge.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454115419136090/jei-1.19.2-forge-11.2.0.254.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454115637252136/OptiFine_1.19.2_HD_U_H9.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116073443388/simple-rpc-1.19-3.1.1.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116333502486/sophisticatedbackpacks-1.19.2-3.18.17.679.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116518035486/sophisticatedcore-1.19.2-0.5.1.97.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454116895535204/tl_skin_cape_forge_1.19_1.19.2-1.27.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454117101060186/tombstone-8.1.1-1.19.2.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454117386256454/voicechat-forge-1.19.2-2.3.6.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454118027997264/worldedit-mod-7.2.12.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454118602612776/Xaeros_Minimap_22.13.0_Forge_1.19.1.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454127263842374/1.19.2SecurityCraftv1.9.3.1.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454127691665519/carryon-1.19-1.18.1.2.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454127989465098/comforts-forge-6.0.01.19.2.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454128253714493/elevatorid-1.19-1.8.7.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454128421478491/Fallingleaves-1.19.1-1.3.0.jar",
+                "https://cdn.discordapp.com/attachments/1015253565184430132/1015454128606019615/FallingTree-1.19.2-3.9.2.jar"
             ]
         }
     }
